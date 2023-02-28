@@ -31,7 +31,7 @@ _This application will prompt the user to enter anything they wish to add in the
 #### To run the application use the following command (not including the dollar symbol):
 
 ```sh
-* $ dotnet run ./ToDoList
+  $ dotnet run ./ToDoList
 ```
 
 ## Known Bugs
